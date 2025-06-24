@@ -1,7 +1,18 @@
 #include <iostream>
+using namespace std;
+
+int main() {
 
 
-int main(int argc, char *argv[]) {
+/*n int a=true;
+    cout << "Natija:" << (!a||a||!a) << endl; */
+
+    int a=false;
+    int b=true;
+    int c=true;
+    int d=false;
+
+    cout << " Natija:" << ((a && !b) || (c || d) && !(a || b)) << endl;
 
 
 
