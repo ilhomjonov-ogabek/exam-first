@@ -3,4 +3,6 @@ project(exam_first)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(exam_first main.cpp)
+add_executable(exam_first main.cpp
+        third_task.cpp
+)
