@@ -18,7 +18,6 @@ add_executable(exam_first test/main.cpp
         task_143.cpp
         task_144.cpp
         " task_145.cpp"
-        task.cpp
         task_145.cpp
         task_146.cpp
         task_147.cpp
@@ -36,4 +35,26 @@ add_executable(exam_first test/main.cpp
         task_162.cpp
         task_163.cpp
         task_164.cpp
+        task_166.cpp
+        task_167.cpp
+        task_168.cpp
+        task_169.cpp
+        task_170.cpp
+        task_171.cpp
+        task_172_eror.cpp
+        task_173.cpp
+        task_174.cpp
+        task_175.cpp
+        task_177.cpp
+        task_178.cpp
+        task_180.cpp
+        task_181.cpp
+        task_182.cpp
+        task_183.cpp
+        task_184.cpp
+        task_185.cpp
+        task_111.cpp
+        task_186.cpp
+        task_187_eror.cpp
+        task_190.cpp
 )
