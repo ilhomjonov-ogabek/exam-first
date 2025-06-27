@@ -57,4 +57,12 @@ add_executable(exam_first test/main.cpp
         task_186.cpp
         task_187_eror.cpp
         task_190.cpp
+        task_191.cpp
+        task_192.cpp
+        task_193.cpp
+        task_194.cpp
+        task_197.cpp
+        task_198.cpp
+        task_200.cpp
+        task_199.cpp
 )
