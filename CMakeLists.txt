@@ -65,4 +65,15 @@ add_executable(exam_first test/main.cpp
         task_198.cpp
         task_200.cpp
         task_199.cpp
+        task_201.cpp
+        exam_1,47.cpp
+        exam_2.cpp
+        exam_3.cpp
+        exam_4.cpp
+        exam_5.cpp
+        exam_6.cpp
+        exam_7.cpp
+        exam_8.cpp
+        exam_9.cpp
+        exam_10.cpp
 )
