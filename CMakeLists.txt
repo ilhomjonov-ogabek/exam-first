@@ -76,4 +76,18 @@ add_executable(exam_first test/main.cpp
         exam_8.cpp
         exam_9.cpp
         exam_10.cpp
+        h.cpp
+        h1.cpp
+        h2.cpp
+        h3.cpp
+        h4.cpp
+        h5.cpp
+        h6.cpp
+        h7.cpp
+        h8.cpp
+        h9.cpp
+        h10.cpp
+        h11.cpp
+        h12.cpp
+        h13.cpp
 )
