@@ -90,4 +90,17 @@ add_executable(exam_first test/main.cpp
         h11.cpp
         h12.cpp
         h13.cpp
+        h14.cpp
+        h15.cpp
+        h16.cpp
+        h17.cpp
+        h18.cpp
+        h19.cpp
+        h20.cpp
+        h21.cpp
+        h22.cpp
+        h23.cpp
+        h24.cpp
+        h25.cpp
+        h26.cpp
 )
