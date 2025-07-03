@@ -103,4 +103,28 @@ add_executable(exam_first test/main.cpp
         h24.cpp
         h25.cpp
         h26.cpp
+        h27.cpp
+        h28.cpp
+        h29.cpp
+        h30.cpp
+        h31.cpp
+        h32.cpp
+        h33.cpp
+        h34.cpp
+        h35.cpp
+        h36.cpp
+        h37.cpp
+        h38.cpp
+        h39.cpp
+        h40.cpp
+        h41.cpp
+        h42.cpp
+        h43.cpp
+        h44.cpp
+        h45.cpp
+        h46.cpp
+        h47.cpp
+        h48.cpp
+        h49.cpp
+        bankamat.cpp
 )

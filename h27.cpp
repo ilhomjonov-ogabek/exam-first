@@ -1,24 +1,39 @@
+#include <algorithm>
 #include <iostream>
-#include <algorithm> // sort uchun
 using namespace std;
-
 int main() {
     int arr[4];
-
-    // Foydalanuvchi sonlarni kiritadi
-    cout << "4 ta son kiriting:\n";
     for (int i = 0; i < 4; i++) {
+        cout << "son kiriting:";
         cin >> arr[i];
     }
 
-    // Saralash (o'sish tartibida)
     sort(arr, arr + 4);
-
-    // Natijani chiqarish
-    cout << "O'sish tartibida: ";
     for (int i = 0; i < 4; i++) {
         cout << arr[i] << " ";
     }
+
+
+
+
+
+    //  cin    satr=   adddadada
+    ///  new satr_new(satr.size)
+//  for satr
+    ///   satr_new.add[satr.leng-i]
+    ///
+    ///   sout  satr_new
+
+
+
+
+
+
+
+
+
+
+
 
     return 0;
 }
