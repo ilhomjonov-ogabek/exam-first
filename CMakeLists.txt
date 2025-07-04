@@ -127,4 +127,7 @@ add_executable(exam_first test/main.cpp
         h48.cpp
         h49.cpp
         bankamat.cpp
+        h50.cpp
+        h51.cpp
+        h52.cpp
 )
