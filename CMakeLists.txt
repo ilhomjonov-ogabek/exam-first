@@ -130,4 +130,25 @@ add_executable(exam_first test/main.cpp
         h50.cpp
         h51.cpp
         h52.cpp
+        task1.cpp
+        task2.cpp
+        task3.cpp
+        task4.cpp
+        task8.cpp
+        task12.cpp
+        task18.cpp
+        task19.cpp
+        task20.cpp
+        task23.cpp
+        task28.cpp
+        task31.cpp
+        task32.cpp
+        task33.cpp
+        task35.cpp
+        task36.cpp
+        task37.cpp
+        task38.cpp
+        task39.cpp
+        task40.cpp
+        task_46.cpp
 )
