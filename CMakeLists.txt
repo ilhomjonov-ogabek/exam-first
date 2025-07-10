@@ -151,4 +151,22 @@ add_executable(exam_first test/main.cpp
         task39.cpp
         task40.cpp
         task_46.cpp
+        lesson1.cpp
+        lesson2.cpp
+        lesson3.cpp
+        lesson4.cpp
+        lesson5.cpp
+        lesson6.cpp
+        lesson7.cpp
+        lesson8.cpp
+        lesson9.cpp
+        lesson10.cpp
+        lesson11.cpp
+        lesson12.cpp
+        lesson13.cpp
+        lesson14.cpp
+        lesson15.cpp
+        lesson16.cpp
+        lesson17.cpp
+        lesson18.cpp
 )
