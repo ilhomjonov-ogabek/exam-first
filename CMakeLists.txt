@@ -169,4 +169,9 @@ add_executable(exam_first test/main.cpp
         lesson16.cpp
         lesson17.cpp
         lesson18.cpp
+        lesson19.cpp
+        lesson20.cpp
+        lesson21.cpp
+        lesson22.cpp
+        lesson23.cpp
 )
